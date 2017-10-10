@@ -1,0 +1,6 @@
+c:\users\lokim\documents\visual studio 2017\Projects\CheckVA\CheckVA\bin\Debug\CheckVA.exe.config
+c:\users\lokim\documents\visual studio 2017\Projects\CheckVA\CheckVA\bin\Debug\CheckVA.exe
+c:\users\lokim\documents\visual studio 2017\Projects\CheckVA\CheckVA\bin\Debug\CheckVA.pdb
+c:\users\lokim\documents\visual studio 2017\Projects\CheckVA\CheckVA\obj\Debug\CheckVA.csprojResolveAssemblyReference.cache
+c:\users\lokim\documents\visual studio 2017\Projects\CheckVA\CheckVA\obj\Debug\CheckVA.exe
+c:\users\lokim\documents\visual studio 2017\Projects\CheckVA\CheckVA\obj\Debug\CheckVA.pdb
