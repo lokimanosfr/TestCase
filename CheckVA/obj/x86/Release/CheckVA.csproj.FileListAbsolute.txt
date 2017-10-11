@@ -3,3 +3,4 @@ c:\users\lokim\documents\visual studio 2017\Projects\CheckVA\CheckVA\bin\x86\Rel
 c:\users\lokim\documents\visual studio 2017\Projects\CheckVA\CheckVA\bin\x86\Release\CheckVA.pdb
 c:\users\lokim\documents\visual studio 2017\Projects\CheckVA\CheckVA\obj\x86\Release\CheckVA.exe
 c:\users\lokim\documents\visual studio 2017\Projects\CheckVA\CheckVA\obj\x86\Release\CheckVA.pdb
+c:\users\lokim\documents\visual studio 2017\Projects\CheckVA\CheckVA\obj\x86\Release\CheckVA.csprojResolveAssemblyReference.cache

@@ -19,7 +19,7 @@ namespace CheckVA
             int counter = 0;
             while (( line = fileIn.ReadLine())!= null){
                 lines =line.Split(';');
-                if (counter == 0) { counter++; continue; }
+                if (counter == 0) { fileOut.WriteLine(String.Join(";", lines)); counter++; continue; }
                 for(int i = 1; i < lines.Count(); i++)
                 {
                     if ((( new int[] {  1,2,3,7,8,9 }).Contains(i)) && (lines[i]!=""))
