@@ -19,11 +19,17 @@ namespace CheckVA
             int counter = 0;
             while (( line = fileIn.ReadLine())!= null){
                 lines =line.Split(';');
+                if (counter == 0) { counter++; continue; }
                 for(int i = 1; i < lines.Count(); i++)
                 {
-                    if ((lines[i][0] == '0') || ((lines[i][0] == '-') && (lines[i][1] == '0')))
+                    if ((( new int[] {  1,2,3,7,8,9 }).Contains(i)) && (lines[i]!=""))
                     {
-                        lines[i] = (Convert.ToDecimal(lines[i]) * 1000).ToString("G29"); 
+                        if (lines[i][0] == '0')
+                        {
+                            lines[i] = lines[i].Insert(5, ","); //добавляю запятую в нужное место
+                            lines[i] = lines[i].Substring(0, 1) + lines[i].Substring(2); //удаляю первую запятую
+                            lines[i] = lines[i].TrimStart('0'); //убираю начальные нули
+                        }
                     }
                 }
                 fileOut.WriteLine(String.Join(";", lines));

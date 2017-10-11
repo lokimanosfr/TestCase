@@ -1,0 +1,5 @@
+c:\users\lokim\documents\visual studio 2017\Projects\CheckVA\CheckVA\bin\x64\Release\CheckVA.exe.config
+c:\users\lokim\documents\visual studio 2017\Projects\CheckVA\CheckVA\bin\x64\Release\CheckVA.exe
+c:\users\lokim\documents\visual studio 2017\Projects\CheckVA\CheckVA\bin\x64\Release\CheckVA.pdb
+c:\users\lokim\documents\visual studio 2017\Projects\CheckVA\CheckVA\obj\x64\Release\CheckVA.exe
+c:\users\lokim\documents\visual studio 2017\Projects\CheckVA\CheckVA\obj\x64\Release\CheckVA.pdb
